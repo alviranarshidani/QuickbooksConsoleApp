@@ -11,7 +11,7 @@ namespace QBConsoleApp
         static void Main(string[] args)
         {
             QuickbooksData quickbooksData = new QuickbooksData();
-            quickbooksData.data();
+            quickbooksData.Data();
             
         }
     }

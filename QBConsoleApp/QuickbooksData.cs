@@ -8,9 +8,10 @@ namespace QBConsoleApp
 {
     class QuickbooksData
     {
-        public void data()
+        public void Data()
         {
-            Console.WriteLine("This is C#");
+            //Console.WriteLine("This is C#");
+
         }
        
     }
