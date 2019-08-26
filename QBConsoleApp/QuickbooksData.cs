@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace QBConsoleApp
 {
-    class Program
+    class QuickbooksData
     {
-        static void Main(string[] args)
+        public void data()
         {
-            QuickbooksData quickbooksData = new QuickbooksData();
-            quickbooksData.data();
-            
+            Console.WriteLine("This is C#");
         }
+       
     }
 }
